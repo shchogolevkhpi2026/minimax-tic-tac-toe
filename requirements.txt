@@ -1,0 +1,5 @@
+# The application uses only the Python standard library: no runtime dependencies.
+# Development tools only:
+pytest==8.3.4
+pytest-cov==6.0.0
+flake8==7.1.1
